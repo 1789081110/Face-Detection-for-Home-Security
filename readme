@@ -1,0 +1,5 @@
+⦁Worked on various models like Mobile NetV1, Mobile NetV2, SVM, Resnet, Dense Net Deep CNN, and Vgg16 model.
+⦁Mobile NetV2 Had an accuracy of 90.66 for training data and the loss validation was 0.18 percent with a size of 8 MB which can be fitted in Raspberry Pi using the Keras library from Tensorflow.
+⦁Have done in-depth research and created a survey paper with a team of 3 and have been selected for IEEE Publication.
+⦁Future Scope: Working on Motion Detection Algorithms and combining them with Face 
+Detection Algorithms and building a proper Home Security System.
